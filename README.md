@@ -1,4 +1,7 @@
+![CreativeFusionLogo2_3](https://github.com/io-oseinana/CreativeFusion/assets/105572944/7974e6c9-8a47-40a8-b7c5-c1a9eb53bcf8)
+
 # CreativeFusion🚀
+
 
 Welcome to CreativeFusion💡✨, a creative playground for showcasing projects built with Next.js, React, and Figma-inspired designs. This repository showcases skills in web development and design, where creative ideas are brought to life.
 
