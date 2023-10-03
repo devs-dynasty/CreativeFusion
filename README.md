@@ -1,6 +1,6 @@
 ![CreativeFusionLogo2_3](https://github.com/io-oseinana/CreativeFusion/assets/105572944/7974e6c9-8a47-40a8-b7c5-c1a9eb53bcf8)
 
-![CreativeFusion](creative-fusion.vercel.app) Live Demo
+![CreativeFusion](https://creative-fusion.vercel.app/) Live Demo
 
 # CreativeFusion🚀
 
