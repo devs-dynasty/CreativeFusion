@@ -1,7 +1,7 @@
 [submodule "Sub"]
-	path = /Sub
-	url = /Sub
+	path = Sub
+	url = Sub
 
 [submodule "Login Page"]
-	path = /Login Page
-	url = /Login Page
+	path = Login Page
+	url = Login Page
