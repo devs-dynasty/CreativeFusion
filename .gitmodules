@@ -1,3 +1,7 @@
 [submodule "Sub"]
 	path = Sub
-	url = ./CreativeFusion/Sub/
+	url = Sub
+
+[submodule "Login Page"]
+	path = Login Page
+	url = Login Page
