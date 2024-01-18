@@ -1,3 +1,6 @@
 [submodule "LoginPage"]
 	path = LoginPage
 	url = ./LoginPage/
+[submodule "LoginPage2"]
+	path = LoginPage2
+	url = ./LoginPage2/
